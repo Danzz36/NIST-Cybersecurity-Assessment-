@@ -1,4 +1,4 @@
-# NIST-Cybersecurity-Assessment-
+# NIST Cybersecurity Assessment 
 
 ---
 
